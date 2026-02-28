@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }} | DAPPRA Automation</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% seo %}
+
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Roboto, Arial, sans-serif;
+      background: #f4f6f8;
+    }
+
+    .topnav {
+      background: #1f3b57;
+      color: white;
+      padding: 12px 20px;
+      font-size: 18px;
+      font-weight: bold;
+    }
+
+    .sidebar {
+      width: 260px;
+      background: #ffffff;
+      position: fixed;
+      top: 50px;
+      bottom: 0;
+      left: 0;
+      overflow-y: auto;
+      border-right: 1px solid #dcdcdc;
+      padding: 20px;
+    }
+
+    .sidebar h3 {
+      color: #1f3b57;
+      margin-top: 20px;
+      font-size: 17px;
+    }
+
+    .sidebar a {
+      display: block;
+      padding: 6px 0;
+      color: #333;
+      text-decoration: none;
+      font-size: 15px;
+    }
+
+    .sidebar a:hover {
+      color: #1f3b57;
+      font-weight: bold;
+    }
+
+    .content {
+      margin-left: 280px;
+      padding: 40px;
+    }
+  </style>
+</head>
+
+<body>
+
+<div class="topnav">
+  DAPPRA Automation — Industrial Documentation
+</div>
+
+<div class="sidebar">
+  <h3>Dokumentasi</h3>
+
+  <a href="/">📘 Beranda</a>
+  <a href="/sensor/">Sensor Industri</a>
+  <a href="/plc/">PLC & Kontrol</a>
+  <a href="/hmi/">HMI & Panel</a>
+  <a href="/connector/">Konektor & Kabel</a>
+  <a href="/motor/">Motor & Drive</a>
+  <a href="/datasheet/">Datasheet</a>
+  <a href="/product/">Produk</a>
+
+  <h3>DAPPRA Links</h3>
+  <a href="https://dappra.com">🌐 Website Resmi</a>
+  <a href="mailto:support@dappra.com">✉️ Email Support</a>
+</div>
+
+<div class="content">
+  {{ content }}
+</div>
+
+</body>
+</html>
