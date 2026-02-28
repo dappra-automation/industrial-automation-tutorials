@@ -14,3 +14,9 @@ Tutorial bagaimana membaca datasheet dan wiring diagram komponen industri.
 - Membaca dimensi mekanik produk  
 
 Halaman ini cocok untuk pemula yang belajar memahami dokumen teknis.
+---
+
+## 🌐 Kunjungi Halaman Datasheet Resmi DAPPRA
+Semua datasheet dan wiring diagram produk dapat ditemukan di:
+
+👉  https://dappra.com/blog/
