@@ -88,3 +88,4 @@ Tutorial ini dibuat untuk:
 ---
 
 # **industrial-automation-tutorials**
+Update sitemap build
