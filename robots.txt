@@ -1,7 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://dappra-automation.github.io/industrial-automation-guides/sitemap.xml
-Sitemap: https://dappra-automation.github.io/industrial-automation-tutorials/sitemap.xml
-Sitemap: https://dappra-automation.github.io/industrial-automation-datasheets/sitemap.xml
-Sitemap: https://dappra-automation.github.io/automation-products/sitemap.xml
