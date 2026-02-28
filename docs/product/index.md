@@ -14,3 +14,9 @@ Panduan instalasi dan konfigurasi untuk produk tertentu secara spesifik.
 - HMI – Membuat tampilan pertama  
 
 Semua tutorial disusun untuk mempermudah implementasi produk di lapangan.
+---
+
+## 🌐 Kunjungi Semua Produk DAPPRA
+Lihat katalog lengkap produk otomasi industri:
+
+👉 https://dappra.com/shop/
