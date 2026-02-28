@@ -14,3 +14,9 @@ Panduan membuat tampilan HMI, komunikasi dengan PLC, dan pengaturan alarm.
 - Monitoring variabel PLC di HMI
 
 Tutorial ditulis dalam format **praktis & langsung bisa diikuti**.
+---
+
+## 🌐 Kunjungi Kategori HMI di Website DAPPRA
+Katalog HMI, panel operator, dan perangkat visualisasi industri:
+
+👉 https://dappra.com/product-category/perangkat-kontrol-otomasi/human-machine-interface/
