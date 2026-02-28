@@ -14,3 +14,9 @@ Kumpulan panduan praktis untuk instalasi, wiring, dan pengaturan sensor industri
 - Cara memilih sensor sesuai aplikasi mesin
 
 Kategori ini berfokus pada **tutorial step-by-step** yang bisa langsung diterapkan di lapangan.
+---
+
+## 🌐 Kunjungi Kategori Sensor di Website DAPPRA
+Produk sensor industri, katalog resmi, dan panduan penggunaan tersedia di:
+
+👉 https://dappra.com/product-category/sensor/
