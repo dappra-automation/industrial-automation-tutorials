@@ -105,5 +105,28 @@ Tutorial teknis untuk berbagai produk:
 🌐 https://dappra.com  
 📩 support@dappra.com
 
+<hr>
 
+<h3>DAPPRA Automation Indonesia</h3>
+
+<p>
+Official Website:
+<a href="https://dappra.com" target="_blank">
+DAPPRA Automation Industrial Solutions
+</a>
+</p>
+
+<p>
+Industrial Automation Tutorials:
+<a href="https://dappra.com/category/automation/" target="_blank">
+PLC Programming, Sensor Wiring & Automation Guides
+</a>
+</p>
+
+<p>
+Machine Safety Sensors:
+<a href="https://dappra.com/product-category/sensor/" target="_blank">
+Industrial Safety Sensors & Automation Components
+</a>
+</p>
 <!-- force rebuild -->
